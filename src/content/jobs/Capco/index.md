@@ -1,5 +1,5 @@
 ---
-date: ''
+date: '2001-12-01'
 title: 'System Engineer/Programmer'
 company: 'Capco Enterprises'
 location: 'Las Vegas, NV'

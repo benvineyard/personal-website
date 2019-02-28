@@ -1,5 +1,5 @@
 ---
-date: ''
+date: '2010-07-01'
 title: 'Senior Software Engineer'
 company: 'The Cosmopolitan of Las Vegas'
 location: 'Las Vegas, NV'

@@ -1,5 +1,5 @@
 ---
-date: ''
+date: '2013-09-01'
 title: 'Founder/CTO'
 company: 'Botvana'
 location: 'Las Vegas, NV'

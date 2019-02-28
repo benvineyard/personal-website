@@ -1,5 +1,5 @@
 ---
-date: ''
+date: '2009-04-01'
 title: '.NET Software Developer'
 company: 'Tech Results'
 location: 'Las Vegas, NV'

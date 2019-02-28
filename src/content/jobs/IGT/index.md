@@ -1,5 +1,5 @@
 ---
-date: ''
+date: '2011-09-01'
 title: 'Sr. Software Engineer III'
 company: 'IGT'
 location: 'Las Vegas, NV'

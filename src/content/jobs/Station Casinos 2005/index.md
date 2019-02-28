@@ -1,5 +1,5 @@
 ---
-date: ''
+date: '2005-05-01'
 title: 'Programmer/Analyst'
 company: 'Station Casinos'
 location: 'Las Vegas, NV'

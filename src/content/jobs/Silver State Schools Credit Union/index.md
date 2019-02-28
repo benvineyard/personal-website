@@ -1,5 +1,5 @@
 ---
-date: ''
+date: '2003-08-01'
 title: 'Programmer'
 company: 'Silver State Schools Credit Union'
 location: 'Las Vegas, NV'

@@ -1,5 +1,5 @@
 ---
-date: ''
+date: '2010-02-01'
 title: 'Senior Software Developer'
 company: 'Advanced Information Systems'
 location: 'Las Vegas, NV'

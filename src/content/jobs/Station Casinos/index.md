@@ -1,5 +1,5 @@
 ---
-date: ''
+date: '2016-05-01'
 title: 'Lead Software Developer'
 company: 'Station Casinos'
 location: 'Las Vegas, NV'
