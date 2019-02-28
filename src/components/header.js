@@ -301,7 +301,7 @@ class Header extends Component {
               {isMounted && (
                 <CSSTransition classNames="fadedown" timeout={3000}>
                   <div style={{ transitionDelay: `600ms` }}>
-                    <ResumeLink href={resume} target="_blank" rel="nofollow noopener noreferrer">
+                    <ResumeLink href="resume.pdf" target="_blank" rel="nofollow noopener noreferrer">
                       Resume
                     </ResumeLink>
                   </div>
