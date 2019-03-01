@@ -1,6 +1,6 @@
 ---
-date: '2017-11-16'
-title: 'Udemys Modern React With Redux'
+date: '2018-11-16'
+title: 'Udemy''s Modern React With Redux'
 image: ''
 github: 'https://github.com/benvineyard/udemy-ModernReactWithRedux'
 external: ''
