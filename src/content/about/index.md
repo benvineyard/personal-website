@@ -11,6 +11,7 @@ skills:
   - Express
   - MongoDB
   - SQL Server
+  - C++
   - C#
   - ASP.NET
 ---
