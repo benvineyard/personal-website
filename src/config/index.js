@@ -42,7 +42,8 @@ module.exports = {
 
   twitterHandle: '@benvineyard',
   googleAnalyticsID: 'UA-33100610-1',
-
+  googleVerification: 'H_UFo2R5AMrb8PcSG8To7gLAMQd3k89hvGXP5L-U16k',
+  
   headerHeight: 100,
 
   greenColor: '#64ffda',
