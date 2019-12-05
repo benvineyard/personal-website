@@ -104,9 +104,9 @@ class Menu extends Component {
                   ))}
               </NavList>
             )}
-            <ResumeLink href={resume} target="_blank" rel="nofollow noopener noreferrer">
+            {/* <ResumeLink href={resume} target="_blank" rel="nofollow noopener noreferrer">
               Resume
-            </ResumeLink>
+            </ResumeLink> */}
           </NavLinks>
         </Sidebar>
       </MenuContainer>

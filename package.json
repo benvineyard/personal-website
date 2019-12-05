@@ -29,6 +29,8 @@
     ]
   },
   "dependencies": {
+    "@upstatement/eslint-config": "^0.4.2",
+    "@upstatement/prettier-config": "^0.3.0",
     "animejs": "^3.0.1",
     "babel-plugin-styled-components": "^1.10.0",
     "gatsby": "^2.1.4",
@@ -39,7 +41,7 @@
     "gatsby-plugin-offline": "^2.0.23",
     "gatsby-plugin-react-helmet": "^3.0.6",
     "gatsby-plugin-robots-txt": "^1.4.0",
-    "gatsby-plugin-sharp": "^2.0.20",
+    "gatsby-plugin-sharp": "^2.2.18",
     "gatsby-plugin-sitemap": "^2.0.5",
     "gatsby-plugin-styled-components": "^3.0.5",
     "gatsby-remark-external-links": "0.0.4",
