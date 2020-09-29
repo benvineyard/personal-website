@@ -3,7 +3,7 @@ date: '2018-06-20'
 title: 'Principal Software Development Engineer'
 company: 'Kaseya'
 location: 'Henderson, NV'
-range: 'June 2018 - Present'
+range: 'June 2018 - July 2019'
 url: 'https://www.kaseya.com/'
 ---
 
