@@ -4,7 +4,7 @@ title: 'Senior Software Developer'
 company: 'Advanced Information Systems'
 location: 'Las Vegas, NV'
 range: 'Feb 2010 - July 2010'
-url: 'http://www.aisinfo.com/'
+url: 'http://web.archive.org/web/20120331053455/http://www.aisinfo.com/'
 ---
 
 - Supported and maintained existing ASP.NET & Silverlight web applications with C# managed code-base
