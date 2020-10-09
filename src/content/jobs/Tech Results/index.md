@@ -4,7 +4,7 @@ title: '.NET Software Developer'
 company: 'Tech Results'
 location: 'Las Vegas, NV'
 range: 'Apr 2009 - Dec 2009'
-url: 'http://www.techresults.com'
+url: 'https://web.archive.org/web/20160323051112/http://www.techresults.com/'
 ---
 
 - Designed and implemented both WCF services and the interfaces to consume them
