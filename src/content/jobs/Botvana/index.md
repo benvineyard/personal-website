@@ -4,7 +4,7 @@ title: 'Founder/CTO'
 company: 'Botvana'
 location: 'Las Vegas, NV'
 range: 'Sept 2013 - Feb 2016'
-url: 'http://www.botvana.com/'
+url: 'https://web.archive.org/web/20160306052733/http://botvana.com/'
 ---
 
 - Worked on mobile applications for the iOS platform
