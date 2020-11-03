@@ -302,7 +302,7 @@ class Header extends Component {
                   <div style={{ transitionDelay: `600ms` }}>
                     {
                       <ResumeLink
-                        href="resume.pdf"
+                        href="/resume/resume.pdf"
                         target="_blank"
                         rel="nofollow noopener noreferrer">
                         Resume
