@@ -28,6 +28,9 @@
       "git add"
     ]
   },
+  "engines" : { 
+    "node" : ">=18.6.0"
+  },
   "dependencies": {
     "@upstatement/eslint-config": "^2.0.0",
     "@upstatement/prettier-config": "^1.0.0",
